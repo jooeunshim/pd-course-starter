@@ -1,0 +1,7 @@
+.md-grid { max-width: 58rem; }
+.md-typeset .grid.cards > ul > li { border-radius: .4rem; }
+.md-typeset blockquote {
+  border-left: .2rem solid var(--md-accent-fg-color);
+  font-style: normal;
+}
+.md-typeset iframe { border-radius: .3rem; display: block; }
